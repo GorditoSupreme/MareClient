@@ -1,0 +1,6 @@
+[
+     {
+    "repo": "https://raw.githubusercontent.com/GorditoSupreme/MareClient/refs/heads/main/MareSynchronos/repo.json",
+    "plugins": ["MareSynchronos"]
+  }
+]
