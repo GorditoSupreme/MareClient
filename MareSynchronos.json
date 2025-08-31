@@ -16,5 +16,8 @@
   "LoadPriority": 0,
   "IconUrl": "https://raw.githubusercontent.com/GorditoSupreme/MareClient/refs/heads/main/MareSynchronos/images/icon.png",
   "Punchline": "Let others see you as you see yourself.",
-  "AcceptsFeedback": true
+  "AcceptsFeedback": true,
+  "DownloadLinkInstall": "https://github.com/user-attachments/files/22062117/latest.zip",
+  "DownloadLinkTesting": "https://github.com/user-attachments/files/22062117/latest.zip",
+  "DownloadLinkUpdate": "https://github.com/user-attachments/files/22062117/latest.zip"
 }
